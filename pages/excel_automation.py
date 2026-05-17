@@ -20,4 +20,4 @@ if uploaded_file:
 
     st.dataframe(df)
 
-    st.subheader("Basic 
+    st.subheader("Basic) 
