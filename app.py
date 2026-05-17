@@ -37,13 +37,13 @@ st.subheader("✨ Platform Features")
 feature_col1, feature_col2, feature_col3 = st.columns(3)
 
 with feature_col1:
-    st.success("AI Invoice Generator")
-    st.success("AI Email Writer")
+    st.success("🧾AI Invoice Generator")
+    st.success("✉️AI Email Writer")
 
 with feature_col2:
    st.success("Customer Chatbot")
-   st.success("Excel Automation")
+   st.success("📁Excel Automation")
 
 with feature_col3:
-    st.success("Analytics Dashboard")
+    st.success("✉️Analytics Dashboard")
     st.success("AI Reports")
