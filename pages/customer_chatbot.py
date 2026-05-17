@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 
 client = OpenAI(
-    api_key=st.secrets["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"]
+    api_key=st.secrets["sk-...oaEA"]
 )
 
 st.title("🤖 Customer Support Chatbot")
