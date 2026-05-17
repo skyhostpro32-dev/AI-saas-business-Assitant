@@ -20,4 +20,6 @@ if uploaded_file:
 
     st.dataframe(df)
 
-    st.subheader("Basic) 
+    st.subheader("Basic  Statistics")
+
+    st.write(df.describe())
